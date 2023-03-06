@@ -59,10 +59,10 @@ article {
 
 /*Использование селектора псевдоэлемента*/
 P:first-letter {
-    color: #172ace; 
+    color: #027a76; 
     font-size: 150%;
     font-style: italic; /* Курсивное начертание */
-   }
+}
 
 article h2{ 
    margin-bottom: 5px;
