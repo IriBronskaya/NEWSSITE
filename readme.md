@@ -12,12 +12,15 @@
 
 * CSS
 
+* JavaScript (Прошу не обращать внимание, файл не дописан)
+
 ## Используемая информация взята
 
 * ФОТОГРАФИИ: https://unsplash.com/
 
 * НОВОСТИ: https://tengrinews.kz/
 
+* КОНТАКТЫ: https://xn--b1aesfkbbawel.xn--p1ai/contacts
 
 ## Как открыть/запустить
 
