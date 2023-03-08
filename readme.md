@@ -17,6 +17,7 @@
 ## Используемая информация взята
 
 * ФОТОГРАФИИ: https://unsplash.com/
+              https://ru.freepik.com/
 
 * НОВОСТИ: https://tengrinews.kz/
 
